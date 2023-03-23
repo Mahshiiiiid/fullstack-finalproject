@@ -6,13 +6,13 @@ overview:
 * Socket.io
 * MongoDB for the database 
 * by using: HTML, CSS, and JavaScript
-* 
+
 
 
 Features:
 
 -  1.Login and sign-up system
-- 2. Microservice:  I demonstrated how to create a simple microservice for user authentication using Auth0 as an authentication provider. This microservice will be responsible for obtaining access tokens for the chat application.
+- Microservice:  I demonstrated how to create a simple microservice for user authentication using Auth0 as an authentication provider. This microservice will be responsible for obtaining access tokens for the chat application.
 I already Tested the login route using Postman 
 
 
@@ -26,7 +26,6 @@ I was really intend to add more features like :
 
 -  5.Page for a list of open rooms
 
-I tried to fix  CORS errors but I couldn’t.
 
 My main problem was that I coudnt navigate the singup page to the loging page, this is the error i got " [Error] Warning: You are importing createRoot from "react-dom" which is not supported. You should instead import it from "react-dom/client".
 	printWarning (bundle.js:13392)
