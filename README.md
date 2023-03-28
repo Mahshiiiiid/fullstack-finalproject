@@ -274,14 +274,3 @@ My main problem was that I coudnt navigate the singup page to the loging page, t
 
 
 
-Steps to set up the repository
-
-Clone the repo from either of the following links:
-https://github.com/Pranav-PSU/ChatApplication.git (HTTPS)
-git@github.com:Pranav-PSU/ChatApplication.git (SSH)
-gh repo clone Pranav-PSU/ChatApplication (Github CLI)
-Navigate to backend folder and open the terminal. Execute the following command: npm install
-Navigate to frontend folder and open the terminal. Again, execute the following command: npm install
-Execute the following command in the frontend folder: npm start
-Navigate to the backend folder and again execute the following command: npm start
-The browser should launch with a tab running the Chat Application.
